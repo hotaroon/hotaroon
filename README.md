@@ -2,10 +2,11 @@
 
 ![bg](fig/bg.jpg)
 
-Newbie programmer.
-
-競技プログラミングをしています。
-AtCoder Rating最高値1210(水色）
+**hotarunx**は趣味プログラマーです。
+ゲームが好きです。
+AtCoder Rating最高値は
+<span style="color: cyan; ">1232(水色）</span>
+です。
 
 ## Link
 
