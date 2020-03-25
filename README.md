@@ -6,16 +6,16 @@ AtCoder Rating最高値は
 <span style="color: cyan; ">1232(水色）</span>
 です。
 
-## Link
+## リンク
 
 * [Twitter](https://twitter.com/hotarunx)
 * [AtCoder](https://atcoder.jp/users/machikane)
 * [GitHub](https://github.com/hotarunx)
 * [Hatena blog](https://hotarunx.hatenablog.com/)
 
-## Hobby
+## 趣味
 
-### Game
+### 好きなゲーム
 
 #### 199X年
 
@@ -51,7 +51,7 @@ AtCoder Rating最高値は
 * 東方輝針城
 * 片道勇者プラス
 
-## History
+## 履歴
 
 ### [KUPC 2020 Spring](https://www.kupc.jp/#/2020%20%E6%98%A5/)
 
