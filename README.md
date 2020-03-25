@@ -51,4 +51,12 @@ AtCoder Rating最高値は
 * 東方輝針城
 * 片道勇者プラス
 
+## History
+
+### [KUPC 2020 Spring](https://www.kupc.jp/#/2020%20%E6%98%A5/)
+
+私、**@_shop_one**、**@31536000**と出場。
+ABDEKMを解いて59位。
+私はADを考察して実装した。
+
 <!-- GitHub.ioへのリンク https://hotarunx.github.io/ -->
