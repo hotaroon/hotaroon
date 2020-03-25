@@ -1,7 +1,5 @@
 # hotarunx.github.io
 
-![bg](fig/bg.jpg)
-
 **hotarunx**は趣味プログラマーです。
 ゲームが好きです。
 AtCoder Rating最高値は
