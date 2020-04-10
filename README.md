@@ -14,6 +14,9 @@ AtCoder Rating最高値は<span style="color: cyan; ">**1232(水色）**</span>�
 
 ## 趣味
 
+* ゲーム
+* 競技プログラミング
+
 ### 好きなゲーム
 
 #### 199X年
