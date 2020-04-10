@@ -53,6 +53,10 @@ AtCoder Rating最高値は<span style="color: cyan; ">**1232(水色）**</span>�
 * 東方輝針城
 * 片道勇者プラス
 
+## 資格試験
+
+* 基本情報技術者試験
+
 ## 履歴
 
 ### [KUPC 2020 Spring](https://www.kupc.jp/#/2020%20%E6%98%A5/)
