@@ -6,56 +6,56 @@ AtCoder Rating最高値は<span style="color: cyan; ">**1232(水色）**</span>�
 
 ## リンク
 
-* [**Twitter** - hotarunx](https://twitter.com/hotarunx)
-* [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
-* [**GitHub** - hotarunx](https://github.com/hotarunx)
-* [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
-* [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
+*   [**Twitter** - hotarunx](https://twitter.com/hotarunx)
+*   [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
+*   [**GitHub** - hotarunx](https://github.com/hotarunx)
+*   [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
+*   [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
 
 ## 趣味
 
-* ゲーム
-* 競技プログラミング
+*   ゲーム
+*   競技プログラミング
 
 ### 好きなゲーム
 
 #### 199X年
 
-* スーパーメトロイド
-* ドクターマリオ
-* ヨッシーアイランド
-* 星のカービィ64
-* 星のカービィスーパーデラックス
-* 風来のシレン
+*   スーパーメトロイド
+*   ドクターマリオ
+*   ヨッシーアイランド
+*   星のカービィ64
+*   星のカービィスーパーデラックス
+*   風来のシレン
 
 #### 200X年
 
-* ゼルダの伝説風のタクト
-* ドラゴンクエストIX
-* ドラゴンクエストVII
-* ポケットモンスタールビー・サファイア
-* メトロイドフュージョン
-* 星のカービィ夢の泉デラックス
-* 東方地霊殿
-* 東方妖々夢
+*   ゼルダの伝説風のタクト
+*   ドラゴンクエストIX
+*   ドラゴンクエストVII
+*   ポケットモンスタールビー・サファイア
+*   メトロイドフュージョン
+*   星のカービィ夢の泉デラックス
+*   東方地霊殿
+*   東方妖々夢
 
 #### 201X年
 
-* スプラトゥーン
-* スプラトゥーン2
-* スーパーマリオオデッセイ
-* ゼルダの伝説ブレスオブザワイルド
-* ポケットモンスターブラック・ホワイト
-* マリオカート8
-* モンスターハンター3rd
-* ルーンファクトリー4
-* 不思議の幻想郷TODR
-* 東方輝針城
-* 片道勇者プラス
+*   スプラトゥーン
+*   スプラトゥーン2
+*   スーパーマリオオデッセイ
+*   ゼルダの伝説ブレスオブザワイルド
+*   ポケットモンスターブラック・ホワイト
+*   マリオカート8
+*   モンスターハンター3rd
+*   ルーンファクトリー4
+*   不思議の幻想郷TODR
+*   東方輝針城
+*   片道勇者プラス
 
 ## 資格試験
 
-* 基本情報技術者試験
+*   基本情報技術者試験
 
 ## 履歴
 
