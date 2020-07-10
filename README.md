@@ -1,4 +1,4 @@
-# hotarunx.github.io
+# hotarunx
 
 **hotarunx**は趣味プログラマーです。
 ゲームが好きです。
