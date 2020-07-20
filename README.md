@@ -8,10 +8,13 @@ AtCoder Rating最高値は<span style="color: cyan; ">**1232(水色）**</span>�
 
 *   [**Twitter** - hotarunx](https://twitter.com/hotarunx)
 *   [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
+*   [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
 *   [**GitHub** - hotarunx](https://github.com/hotarunx)
 *   [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
-*   [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
+*   [**Aizu Online Judge** - machikane](https://onlinejudge.u-aizu.ac.jp/status/users/machikane)
+*   [**yukicoder** - hotaru](https://yukicoder.me/users/9490)
 *   [**Markov Algorithm Online** - hotaru](https://mao.snuke.org/users/hotaru)
+*   [競技プログラミング精進ツリー🌴](https://twitter.com/hotarunx/status/1271011084107804673)
 
 ## 趣味
 
