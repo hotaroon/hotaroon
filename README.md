@@ -46,6 +46,10 @@ Twitterとはてなブログがあります。
 
 ## 履歴
 
+### WUPC 2020
+
+<https://hotarunx.hatenablog.com/entry/wupc2020>  出ました。
+
 ### KUPC 2020 Spring
 
 <https://www.kupc.jp/#/2020%20%E6%98%A5/>
