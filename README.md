@@ -1,6 +1,4 @@
-# hotarunx
-
-**hotarunx**です。
+# hotaroon
 
 ## リンク
 
@@ -12,8 +10,8 @@ AtCoder Rating最高値は<span style="color: cyan; ">**1253(水色)**</span>で
 
 Twitterとはてなブログがあります。
 
-* [**Twitter** - hotarunx](https://twitter.com/hotarunx)
-* [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
+* [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
+* [**Hatena blog**](https://hotarunx.hatenablog.com/)
 
 ### 競技プログラミング
 
@@ -27,9 +25,9 @@ Twitterとはてなブログがあります。
 
 ### ソーシャル
 
-* [**Twitter** - hotarunx](https://twitter.com/hotarunx)
-* [**GitHub** - hotarunx](https://github.com/hotarunx)
-* [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
+* [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
+* [**GitHub** - hotaroon](https://github.com/hotaroon)
+* [**Hatena blog**](https://hotarunx.hatenablog.com/)
 
 ## 趣味
 
