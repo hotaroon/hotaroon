@@ -33,6 +33,7 @@ Twitterとはてなブログがあります。
 
 * [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
 * [**GitHub** - hotaroon](https://github.com/hotaroon)
+* [**Gist** - hotaroon](https://gist.github.com/hotaroon)
 * [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
 
 ## 趣味
