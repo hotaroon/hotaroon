@@ -1,9 +1,14 @@
 # hotaroon
 
+Novice Competitive Programmerのhotaru/hotaroon/ホタルです。
+
+Twitterのフォロワー・AtCoderのお気に入り・Codeforcesのfriends・CodinGameのfriends・Nintendo Switchのフレンドを募集しています。
+GitHubのスター・はてなブログのはてなスターを募集しています。
+
 ## リンク
 
 毎週AtCoderとCodeforcesのratedコンテストに参加しています。
-AtCoder Rating最高値は<span style="color: cyan; ">**1253(水色)**</span>です。
+AtCoder Rating最高値は<span style="color: cyan; ">**1284(水色)**</span>です。
 
 * [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
 * [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
@@ -11,7 +16,7 @@ AtCoder Rating最高値は<span style="color: cyan; ">**1253(水色)**</span>で
 Twitterとはてなブログがあります。
 
 * [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
-* [**Hatena blog**](https://hotarunx.hatenablog.com/)
+* [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
 
 ### 競技プログラミング
 
@@ -19,6 +24,7 @@ Twitterとはてなブログがあります。
 * [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
 * [**Aizu Online Judge** - machikane](https://onlinejudge.u-aizu.ac.jp/status/users/machikane)
 * [**yukicoder** - hotaru](https://yukicoder.me/users/9490)
+* [**CodinGame** - hotaru](https://www.codingame.com/profile/bb6b17fbadb996989015079ffdae841f6597473)
 * [**Markov Algorithm Online** - hotaru](https://mao.snuke.org/users/hotaru)
 * [**TLX** - hotaru](https://tlx.toki.id/profiles/hotaru)
 * [競技プログラミング精進ツリー🌴](https://twitter.com/hotarunx/status/1271011084107804673)
@@ -27,7 +33,7 @@ Twitterとはてなブログがあります。
 
 * [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
 * [**GitHub** - hotaroon](https://github.com/hotaroon)
-* [**Hatena blog**](https://hotarunx.hatenablog.com/)
+* [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
 
 ## 趣味
 
@@ -43,6 +49,12 @@ Twitterとはてなブログがあります。
 * Monokai
 
 ## 履歴
+
+### CODINGAME FALL CHALLENGE 2020
+
+<https://hotarunx.hatenablog.com/entry/codingame_fall_challenge_2020>
+
+🥇ゴールドリーグ🥇・全体順位186位。
 
 ### WUPC 2020
 
