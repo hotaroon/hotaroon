@@ -1,55 +1,48 @@
-# hotaroon
+# hotaru
 
-Novice Competitive Programmerのhotaru/hotaroon/ホタルです。
+Novice Competitive Programmerのホタル/hotaru/hotaroonです。
 
-Twitterのフォロワー・AtCoderのお気に入り・Codeforcesのfriends・CodinGameのfriends・Nintendo Switchのフレンドを募集しています。
-GitHubのスター・はてなブログのはてなスターを募集しています。
-
-## リンク
-
-毎週AtCoderとCodeforcesのratedコンテストに参加しています。
-AtCoder Rating最高値は<span style="color: cyan; ">**1284(水色)**</span>です。
+私は毎週AtCoderとCodeforcesのratedコンテストに参加しています。
+AtCoderのRating最高値は<span style="color: cyan; ">**1284(水色🧊)**</span>です。
 
 * [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
 * [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
 
-Twitterとはてなブログがあります。
+Twitterとはてなブログを書いています。私に興味があれば読んでください。
 
 * [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
 * [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
 
-### 競技プログラミング
+Twitterのフォロワー・AtCoderの★・Codeforcesの★・CodinGameのfriends・Nintendo Switchのフレンドを募集しています。
+GitHubの★・はてなブログの★を募集しています。
 
-* [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
-* [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
-* [**Aizu Online Judge** - machikane](https://onlinejudge.u-aizu.ac.jp/status/users/machikane)
-* [**yukicoder** - hotaru](https://yukicoder.me/users/9490)
-* [**CodinGame** - hotaru](https://www.codingame.com/profile/bb6b17fbadb996989015079ffdae841f6597473)
-* [**Markov Algorithm Online** - hotaru](https://mao.snuke.org/users/hotaru)
-* [**TLX** - hotaru](https://tlx.toki.id/profiles/hotaru)
-* [競技プログラミング精進ツリー🌴](https://twitter.com/hotarunx/status/1271011084107804673)
+## スキル
 
-### ソーシャル
-
-* [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
-* [**GitHub** - hotaroon](https://github.com/hotaroon)
-* [**Gist** - hotaroon](https://gist.github.com/hotaroon)
-* [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
+* C++：AtCoderで500問解いた。
+* C#：GUIアプリ作った。
+* Python：少し使える。
+* JavaScript：ユーザースクリプト[AtCoder Difficulty Display](https://github.com/hotaroon/AtCoderDifficultyDisplay)を公開した。
+* Git・GitHub：資料を見ながら基本操作が可能。
+* WSL：2年ほど開発環境として使用している。
+* VSCode：2年ほどエディタとして使用している。
 
 ## 趣味
 
 * プログラミング
-* 競技プログラミング
-* ドクターマリオ
-* パネルでポン
-* あつまれどうぶつの森
+* 競技プログラミング（アルゴリズム）
+* 競技プログラミング（マラソン）
+* 競技プログラミング（ゲームAI）
+* 環境構築
+* エディタの設定
 * ポケモンGO
+* あつまれどうぶつの森
+* ドクターマリオ（FC）
 
-## 好きなテーマ
+## 資格・試験・検定
 
-* Monokai
+* アルゴリズム実技検定上級
 
-## 履歴
+## プログラミングコンテスト参加履歴
 
 ### CODINGAME FALL CHALLENGE 2020
 
@@ -68,6 +61,46 @@ Twitterとはてなブログがあります。
 私 **shop_one** **31536000** と出場。
 ABDEKMを解いて59位。
 私はADを考察して実装した。
+
+## 今後やりたいこと
+
+* AtCoder青🔵になる。
+* CodeforcesのratingをAtCoderと同等まで上げる。
+* アルゴリズム実技検定エキスパートに認定される。
+* CodinGameのレジェンドリーグに昇格する。
+* AtCoder/AOJのJOIの問題のページに、JOI非公式難易度表の難易度を表示するユーザースクリプトを作る。
+* Rust/Go/Typescript/SQLを勉強する。
+* kaggleをする。
+* Unityでゲーム公開する。
+* 資格・試験・検定勉強する。
+
+## リンク
+
+### 競技プログラミングのリンク
+
+* [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
+* [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
+* [**Aizu Online Judge** - machikane](https://onlinejudge.u-aizu.ac.jp/status/users/machikane)
+* [**yukicoder** - hotaru](https://yukicoder.me/users/9490)
+* [**CodinGame** - hotaru](https://www.codingame.com/profile/bb6b17fbadb996989015079ffdae841f6597473)
+* [**TLX** - hotaru](https://tlx.toki.id/profiles/hotaru)
+
+### SNSのリンク
+
+* [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
+* [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
+* [**GitHub** - hotaroon](https://github.com/hotaroon)
+* [**Gist** - hotaroon](https://gist.github.com/hotaroon)
+
+### ゲーム・パズルのリンク
+
+* [**Markov Algorithm Online** - hotaru](https://mao.snuke.org/users/hotaru)
+
+## 趣味詳細情報
+
+### 好きなテーマ
+
+* Monokai/Molokai
 
 ### マリオカート8DX タイムアタック
 
