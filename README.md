@@ -13,8 +13,9 @@ Twitterとはてなブログを書いています。私に興味があれば読�
 * [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
 * [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
 
-Twitterのフォロワー・AtCoderの★・Codeforcesの★・CodinGameのfriends・Nintendo Switchのフレンドを募集しています。
+Twitterのフォロワー・AtCoderの★・Codeforcesの★・CodinGameのfriendsを募集しています。
 GitHubの★・はてなブログの★を募集しています。
+Nintendo Switchのフレンド・ポケモンGOのフレンドを募集しています。
 
 ## スキル
 
