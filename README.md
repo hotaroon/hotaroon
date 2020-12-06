@@ -15,7 +15,7 @@ Twitterとはてなブログを書いています。私に興味があれば読�
 
 Twitterのフォロワー・AtCoderの★・Codeforcesの★・CodinGameのfriendsを募集しています。
 GitHubの★・はてなブログの★を募集しています。
-Nintendo Switchのフレンド・ポケモンGOのフレンドを募集しています。
+Nintendo Switchのフレンド・ポケモンGOのフレンド・駅メモ（アプリ版）の電友を募集しています。
 
 ## スキル
 
