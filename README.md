@@ -13,6 +13,11 @@ Twitterとはてなブログを書いています。私に興味があれば読�
 * [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
 * [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
 
+GitHubで一部コードを公開しています。Gistはメモ代わりに使っています。
+
+* [**GitHub** - hotaroon](https://github.com/hotaroon)
+* [**Gist** - hotaroon](https://gist.github.com/hotaroon)
+
 Twitterのフォロワー・AtCoderの★・Codeforcesの★・CodinGameのfriendsを募集しています。
 GitHubの★・はてなブログの★を募集しています。
 Nintendo Switchのフレンド・ポケモンGOのフレンド・駅メモ（アプリ版）の電友を募集しています。
