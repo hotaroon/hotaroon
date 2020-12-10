@@ -24,13 +24,14 @@ Nintendo Switchのフレンド・ポケモンGOのフレンド・駅メモ（ア
 
 ## スキル
 
-* C++：AtCoderで500問解いた。
+* C++：AtCoderなど競技プログラミングで600問ほど解いた。
 * C#：GUIアプリ作った。
-* Python：少し使える。
+* Python：少し使える。競技プログラミングで100問ほど解いた。
 * JavaScript：ユーザースクリプト[AtCoder Difficulty Display](https://github.com/hotaroon/AtCoderDifficultyDisplay)を公開した。
 * Git・GitHub：資料を見ながら基本操作が可能。
 * WSL：2年ほど開発環境として使用している。
 * VSCode：2年ほどエディタとして使用している。
+* heroku：ちょっと遊んだことがある。
 
 ## 趣味
 
