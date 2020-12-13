@@ -3,7 +3,9 @@
 Novice Competitive Programmerのホタル/hotaru/hotaroonです。
 
 私は毎週AtCoderとCodeforcesのratedコンテストに参加しています。
+競技プログラミングの環境はGCC C++17, WSL, VSCodeです。
 AtCoderのRating最高値は<span style="color: cyan; ">**1284(水色🧊)**</span>です。
+CodeforcesのRating最高値は<span style="color: cyan; ">**1592(Specialist🧊)**</span>です。
 
 * [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
 * [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
@@ -51,6 +53,7 @@ Nintendo Switchのフレンド・ポケモンGOのフレンド・駅メモ（ア
 ## 資格・試験・検定
 
 * アルゴリズム実技検定上級
+* 残りは秘密
 
 ## プログラミングコンテスト参加履歴
 
