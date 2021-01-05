@@ -5,10 +5,10 @@ Novice Competitive Programmerのホタル/hotaru/hotaroonです。
 私は毎週AtCoderとCodeforcesのratedコンテストに参加しています。
 競技プログラミングの環境はGCC C++17, WSL, VSCodeです。
 AtCoderのRating最高値は<span style="color: cyan; ">**1284(水色🧊)**</span>です。
-CodeforcesのRating最高値は<span style="color: cyan; ">**1592(Specialist🧊)**</span>です。
+CodeforcesのRating最高値は<span style="color: blue; ">**1654(Expert💙)**</span>です。
 
 * [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
-* [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
+* [**Codeforces** - hotaru](https://codeforces.com/profile/hotaru)
 
 Twitterとはてなブログを書いています。私に興味があれば読んでください。
 
@@ -95,7 +95,7 @@ ABDEKMを解いて59位。
 ### 競技プログラミングのリンク
 
 * [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
-* [**Codeforces** - seiran](https://codeforces.com/profile/seiran)
+* [**Codeforces** - hotaru](https://codeforces.com/profile/hotaru)
 * [**Aizu Online Judge** - machikane](https://onlinejudge.u-aizu.ac.jp/status/users/machikane)
 * [**yukicoder** - hotaru](https://yukicoder.me/users/9490)
 * [**CodinGame** - hotaru](https://www.codingame.com/profile/bb6b17fbadb996989015079ffdae841f6597473)
