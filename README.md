@@ -1,6 +1,6 @@
 # hotaru
 
-Novice Competitive Programmerのホタル/hotaru/hotaroonです。
+Novice Competitive Programmerのホタル/hotaru/hotarunxです。
 
 私は毎週AtCoderとCodeforcesのratedコンテストに参加しています。
 競技プログラミングの環境はGCC C++17, WSL, VSCodeです。
@@ -12,13 +12,13 @@ CodeforcesのRating最高値は<span style="color: blue; ">**1654(Expert💙)**<
 
 Twitterとはてなブログを書いています。私に興味があれば読んでください。
 
-* [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
+* [**Twitter** - hotarunx](https://twitter.com/hotarunx)
 * [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
 
 GitHubで一部コードを公開しています。Gistはメモ代わりに使っています。
 
-* [**GitHub** - hotaroon](https://github.com/hotaroon)
-* [**Gist** - hotaroon](https://gist.github.com/hotaroon)
+* [**GitHub** - hotarunx](https://github.com/hotarunx)
+* [**Gist** - hotarunx](https://gist.github.com/hotarunx)
 
 Twitterのフォロワー・AtCoderの★・Codeforcesの★・CodinGameのfriendsを募集しています。
 GitHubの★・はてなブログの★を募集しています。
@@ -29,7 +29,7 @@ Nintendo Switchのフレンド・ポケモンGOのフレンド・駅メモ（ア
 * C++：AtCoderなど競技プログラミングで600問ほど解いた。
 * C#：GUIアプリ作った。
 * Python：少し使える。競技プログラミングで100問ほど解いた。
-* JavaScript：ユーザースクリプト[AtCoder Difficulty Display](https://github.com/hotaroon/AtCoderDifficultyDisplay)を公開した。
+* JavaScript：ユーザースクリプト[AtCoder Difficulty Display](https://github.com/hotarunx/AtCoderDifficultyDisplay)を公開した。
 * Git・GitHub：資料を見ながら基本操作が可能。
 * WSL：2年ほど開発環境として使用している。
 * VSCode：2年ほどエディタとして使用している。
@@ -103,10 +103,10 @@ ABDEKMを解いて59位。
 
 ### SNSのリンク
 
-* [**Twitter** - hotaroonx](https://twitter.com/hotaroonx)
+* [**Twitter** - hotarunx](https://twitter.com/hotarunx)
 * [**Hatena blog** - hotarunx](https://hotarunx.hatenablog.com/)
-* [**GitHub** - hotaroon](https://github.com/hotaroon)
-* [**Gist** - hotaroon](https://gist.github.com/hotaroon)
+* [**GitHub** - hotarunx](https://github.com/hotarunx)
+* [**Gist** - hotarunx](https://gist.github.com/hotarunx)
 
 ### ゲーム・パズルのリンク
 
