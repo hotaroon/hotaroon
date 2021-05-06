@@ -6,6 +6,7 @@ Novice Competitive Programmerのホタル/hotaru/hotarunxです。
 競技プログラミングの環境はGCC C++17, WSL, VSCodeです。
 AtCoderのRating最高値は<span style="color: cyan; ">**1284(水色🧊)**</span>です。
 CodeforcesのRating最高値は<span style="color: blue; ">**1654(Expert💙)**</span>です。
+CodinGameの過去問で1回レジェンドリーグまで到達しました。
 
 * [**AtCoder** - machikane](https://atcoder.jp/users/machikane)
 * [**Codeforces** - hotaru](https://codeforces.com/profile/hotaru)
@@ -80,7 +81,7 @@ ABDEKMを解いて59位。
 * AtCoder青🔵になる。
 * CodeforcesのratingをAtCoderと同等まで上げる。
 * アルゴリズム実技検定エキスパートに認定される。
-* CodinGameのレジェンドリーグに昇格する。
+* ~~CodinGameのレジェンドリーグに昇格する~~Fall Challenge 2020でコンテスト終了後にレジェンドになりました。
 * AtCoder/AOJのJOIの問題のページに、JOI非公式難易度表の難易度を表示するユーザースクリプトを作る。
 * Rust/Go/TypeScript/SQLを勉強する。
 * Webエンジニアリングをする。
